@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm open to work
+Hi, my name is Robert, and I am an aspiring .NET Developer!
 
 
 ## 🌐 Socials:
